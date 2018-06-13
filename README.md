@@ -1,2 +1,3 @@
 # hola-mundo
-First test of a repository
+Hola, me llamo Rolando.
+Estoy probando GitHub.
